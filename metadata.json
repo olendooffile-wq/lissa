@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of PurpleDream v2 | VIP Experience",
+  "description": "A vibrant, mobile-first web app with a K-POP theme for fandom management, featuring client and admin areas with neon aesthetics. Version 2.0.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
